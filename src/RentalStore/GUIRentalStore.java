@@ -1,4 +1,4 @@
-package project3;
+package RentalStore;
 
 import javax.swing.*;
 import java.awt.*;

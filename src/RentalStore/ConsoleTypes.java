@@ -1,4 +1,4 @@
-package project3;
+package RentalStore;
 
 public enum ConsoleTypes
 {   NoSelection,
